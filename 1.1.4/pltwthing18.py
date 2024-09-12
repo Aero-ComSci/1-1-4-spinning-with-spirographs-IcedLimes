@@ -11,7 +11,6 @@ x = -200
 y = 0
 move_x = 1
 move_y = 1
-# changed the 0 to a 1 
 while (x < 1):
 
   while (y < 100):
