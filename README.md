@@ -37,6 +37,8 @@ Use the forward() and right() methods to draw the sides of the squares.
 5. Answer to step 21
 6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
 7. Give an example of an undecidable problem, attach code.
+# concentric squares
+![image](https://github.com/user-attachments/assets/916ec45f-bcbc-4fb1-8a8e-58bfa9f2635c)
 
 # Step 21
 the chart on step 21 shows a infinite loop that turns right, moves forward, then creates a circle with a radius of three, then it loops back and does it again.
