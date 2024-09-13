@@ -6,7 +6,7 @@ painter.speed(0)
 painter.penup()
 painter.goto(-200, 0)
 painter.pendown()
-
+#infinite loop
 while(True):
 
     x = -200
@@ -49,6 +49,7 @@ while(True):
             y = y + move_y
             painter.goto(x,y)
         # repeats because x is at 0 when the first cycle completes which is less than 1 so it makes another diagonal
+        #goes back to og position
     painter.penup()
     painter.goto(-200,0)
     painter.pendown()
