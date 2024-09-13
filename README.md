@@ -45,7 +45,18 @@ the chart on step 21 shows a infinite loop that turns right, moves forward, then
 ![image](https://github.com/user-attachments/assets/260ff710-d624-4329-a125-9baeeb169d73)
 ![image](https://github.com/user-attachments/assets/a944e72a-ab7b-47a9-ba84-9fdc811dd980)
 
-# Last Thing
+# Undecidable Code
+undecidable code is when code is going to run as a loop infinitely and cannot give an output
+ex:
+![image](https://github.com/user-attachments/assets/6b08885a-5ca0-4601-9d47-a595c2de3db5)
+
+x=int(input("enter in a number"))
+while (x < 0):
+    x=x+0
+while (x > 0):
+    x=x+0
+print(x)
+
 
 
 
