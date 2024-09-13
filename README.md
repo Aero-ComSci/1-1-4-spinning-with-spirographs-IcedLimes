@@ -37,6 +37,16 @@ Use the forward() and right() methods to draw the sides of the squares.
 5. Answer to step 21
 6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
 7. Give an example of an undecidable problem, attach code.
-   
+
+# Step 21
+the chart on step 21 shows a infinite loop that turns right, moves forward, then creates a circle with a radius of three, then it loops back and does it again.
+
+# Token
+![image](https://github.com/user-attachments/assets/260ff710-d624-4329-a125-9baeeb169d73)
+![image](https://github.com/user-attachments/assets/a944e72a-ab7b-47a9-ba84-9fdc811dd980)
+
+# Last Thing
+
+
 
 
